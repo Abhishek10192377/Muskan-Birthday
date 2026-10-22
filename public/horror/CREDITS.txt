@@ -1,0 +1,9 @@
+Photographs used in the horror scenes (both free to use without permission):
+
+corridor.jpg — "EasternStatePenitentiary.JPG" by RichardMarcJ (English Wikipedia). Public domain.
+  https://commons.wikimedia.org/wiki/File:EasternStatePenitentiary.JPG
+
+room.jpg — "Empty Room (Unsplash)" by Stephen Caserta. CC0 1.0 (public domain dedication).
+  https://commons.wikimedia.org/wiki/File:Empty_Room_(Unsplash).jpg
+
+All sound effects and ambience are synthesised in the browser (Web Audio); no audio files were downloaded.
